@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Piyush Yadav</h1>
-<h3 align="center">Front-End enthusiast Currently Pursuing B.Tech CSE in AI/ML from KK Modi University</h3>
+<h3 align="center">Currently a 3rd year B.Tech CSE Specialization in AI/ML undergraduate from KK Modi University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=g-piyush108&label=Profile%20views&color=0e75b6&style=flat" alt="g-piyush108" /> </p>
 
